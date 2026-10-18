@@ -1,4 +1,4 @@
-#include "../arraylib.h"
+#include "arraylib.h"
 #include <cassert>
 #include <cmath>
 #include <iostream>
