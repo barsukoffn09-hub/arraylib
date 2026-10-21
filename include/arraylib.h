@@ -1,6 +1,5 @@
 #ifndef ARRAYLIB_H
 #define ARRAYLIB_H
-#define ARRAYLIB_H
 
 #include <cstddef>
 
